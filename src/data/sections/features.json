@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-paint-bucket",
+    "title": "UX / UI Design",
+    "content": "As a creative designer, I believe that well-defined problems and an understanding of customers' needs start with empathy."
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-phone",
+    "title": "Design Systems",
+    "content": "I create memorable brand experiences in all types of systems to be both beautiful, functional, and accessible."
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-display1",
+    "title": "Interaction Design",
+    "content": "I sue design thinking to turn effective and delightful low and high fidelity design work into masterpieces."
+  },
+  {
+    "id": 4,
+    "icon": "pe-7s-diskette",
+    "title": "Visual Design",
+    "content": "My goal is to work with a high attention to details and a wide set of skills to maintain product design vision."
+  }
+]

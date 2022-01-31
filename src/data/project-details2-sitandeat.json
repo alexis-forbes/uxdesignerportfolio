@@ -1,0 +1,70 @@
+{
+  "id": 1,
+  "title": { "small": "UX / UI Design App", "big": "SIT & EAT." },
+  "clientURLLink": "#",
+  "projectHeaderImage": "/img/sitandeat/1-FOTO-SIT&EAT.jpg",
+  "videoLink": "https://vimeo.com/127203262",
+  "clientURLName": "Envato.com",
+  "date": "1 December 2021",
+  "categories": [
+    {
+      "id": 1,
+      "name": "UX/UI Design",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "name": "Responsive",
+      "link": "#"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Food",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "name": "Modern",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "name": "Design",
+      "link": "#"
+    }
+  ],
+  "intro": {
+    "content": "Sit & Eat is an app that makes it easy for users (tourists, locals, etc.) to find a restaurant near their location, make a reservation and request food so that when you get to the restaurant the kitchen starts up so as not to waste a lot of time. This application has a list of restaurants in all the cities of the world with photographs of the place, food and drink. You can also find the menu and reviews of different diners who have been to them.",
+    "spmList": [
+      {
+        "id": 1,
+        "name": "Project Duration:"
+      },
+      {
+        "id": 2,
+        "name": "January 2021 to May 2021"
+      }
+    ]
+  },
+  "gallery": [
+    "/img/sitandeat/LOFI-HIFI-SIT&EAT-1.jpg",
+    "/img/sitandeat/LOFI-HIFI-SIT&EAT3.jpg",
+    "/img/sitandeat/LOFI-HIFI-SIT&EAT-5.jpg",
+    "/img/sitandeat/LOFI-HIFI-SIT&EAT-2.jpg",
+    "/img/portfolio/project2/7.jpg"
+  ],
+  "description": {
+    "content": "I conducted interviews and created empathy maps to understand the users that I am design for and your needs. A core user group identified through research. They were working adults and had no time to cook. This group of users confirmed initial assumptions about Sit&Eat customers, but the investigation. It also revealed that time was not the only factor limiting users to cooking at home. Other problems of the users included obligations, trips, interests of knowing other cultures through gastronomy or challenges that they do. It's hard to get food or a restaurant when you're out of town."
+  },
+  "wireframes": {
+    "wireframescontent": "As the initial design phase continued, I made sure to base screen designs on feedback and findings from  the user research. Easy navigation was a key user need to address in the designs in addition to equipping the app to work with assistive technologies. More specific easy navigation was a key user need to address in the designs, as well as equipping the application to work with assistive technologies.As the design phase continued, based on user feedback and research results. Hence the need to add the order to the reservation due to the short waiting time of users in the restaurant. Also adding a basket button to provide the reservation information."
+  },
+  "wireframesExtra": {
+    "wireframesExtra": "The first designs allowed some customization, but after usability studies i added additional options like favorites and help section. I also revised the layout so that users see all the options in the menu when they first land on the screen. The second usability study revealed frustration with the flow of booking conditions. To streamline this flow, I added the basket button and an 'Order Summary' screen."
+  },
+  "prototype": {
+    "prototypecontent": "The final hi-fi prototype featured cleaner streams of users for booking and ordering. It also met the needs of the user by having the option of the order summary to obtain the information of the reservation made."
+  }
+}

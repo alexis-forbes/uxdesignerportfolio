@@ -1,0 +1,69 @@
+{
+  "id": 1,
+  "title": { "small": "UX / UI Design App", "big": "SIT & EAT." },
+  "clientURLLink": "#",
+  "projectHeaderImage": "/img/livehelp/1-FOTO-LIVEHELP.jpg",
+  "videoLink": "https://vimeo.com/127203262",
+  "clientURLName": "Envato.com",
+  "date": "1 December 2021",
+  "categories": [
+    {
+      "id": 1,
+      "name": "UX/UI Design",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "name": "Responsive",
+      "link": "#"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Food",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "name": "Modern",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "name": "Design",
+      "link": "#"
+    }
+  ],
+  "intro": {
+    "content": "We are a Creative Agency & Startup Studio that provides Digital Products and Services turns to focus on client success. We specialize in user interface design, including front-end development which we consider to be an integral part.",
+    "spmList": [
+      {
+        "id": 1,
+        "name": "Aenean sollicitudin"
+      },
+      {
+        "id": 2,
+        "name": "lorem quis bibendum auctor"
+      },
+      {
+        "id": 31,
+        "name": "nisi elit conseq uat ipsum"
+      },
+      {
+        "id": 4,
+        "name": "nec sagittis sem nibh id elit"
+      }
+    ]
+  },
+  "gallery": [
+    "/img/sitandeat/LOFI-HIFI-SIT&EAT-1.jpg",
+    "/img/sitandeat/LOFI-HIFI-SIT&EAT3.jpg",
+    "/img/sitandeat/LOFI-HIFI-SIT&EAT-5.jpg",
+    "/img/sitandeat/LOFI-HIFI-SIT&EAT-2.jpg",
+    "/img/portfolio/project2/7.jpg"
+  ],
+  "description": {
+    "content": "We are a Creative Agency & Startup Studio that provides Digital Products and Services turns to focus on client success. We specialize in user interface design, including front-end development which we consider to be an integral part."
+  }
+}

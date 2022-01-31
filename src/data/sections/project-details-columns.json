@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-tools",
+    "title": "The Problem",
+    "content": "Busy workers and travelers lack time to prepare food at home or wait long for a meal at the restaurant."
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-id",
+    "title": "My Role",
+    "content": "UX designer designing an app for Sit&Eat from conception to delivery."
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-target",
+    "title": "The Goal",
+    "content": "Design a Sit&Eat app that allows user to make a restaurant reservation and / or easily pick up or eat dishes of all types of food."
+  },
+  {
+    "id": 4,
+    "icon": "pe-7s-menu",
+    "title": "Responsabilities",
+    "content": "Conducting interviews, paper and digital wireframing, low-fidelity and high-fidelity prototyping, usability studies, accessibility accounting, and design iteration."
+  }
+]

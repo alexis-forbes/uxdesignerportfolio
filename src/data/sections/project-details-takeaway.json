@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-target",
+    "title": "Impact",
+    "content": "Impact: The application makes users feel that Sit&Eat really thinks about how to meet their needs.",
+    "quote": "A quote from peer comments: 'The app made my summer vacation in Spain so easy and fun for lunch and dinner! Finally I was able to enjoy Mediterranean food. I would definitely use this app as an option for a delicious, quick, and even healthy meal'."
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-study",
+    "title": "What I learned",
+    "content": "While designing the Sit&Eat application, I learned that the first ideas for the application are only the beginning of the process. Usability studies and peer feedback influenced each iteration of the app designs."
+  }
+]
